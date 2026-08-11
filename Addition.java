@@ -1,6 +1,6 @@
 public class Addition {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        scanner scanner = new scanner(System.in);
 
         // Input two numbers
         System.out.print("Enter first number: ");
